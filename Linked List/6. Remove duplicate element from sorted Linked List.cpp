@@ -1,4 +1,4 @@
-//Function to remove duplicates from sorted linked list.
+//Function to remove duplicates from sorted linked list
 Node *removeDuplicates(Node *head)
 {
     /* Pointer to traverse the linked list */
