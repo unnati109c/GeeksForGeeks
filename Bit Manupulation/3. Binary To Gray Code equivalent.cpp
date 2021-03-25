@@ -3,7 +3,6 @@ You are given a decimal number N. You need to find the gray code of the number N
 
 Expected Time Complexity: O(1).
 Expected Auxiliary Space: O(1).
-
 */
 
 int greyConverter(int n)
