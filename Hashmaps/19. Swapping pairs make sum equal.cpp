@@ -40,7 +40,7 @@ int findSwapValues(int a[], int n, int b[], int m)
        
         for(int i=0;i<m;i++)
         {
-            //cout<<"hello";
+            
             if(s.find(((suma-sumb)/2) + b[i])!=s.end())
             {
                 
